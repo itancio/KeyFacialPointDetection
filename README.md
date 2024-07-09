@@ -1,2 +1,2 @@
 # KeyFacialPointDetection
-[!img](assets/facial1.png)
+<img src="assets/facial1.png" width="80%"/>
